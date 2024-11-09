@@ -35,26 +35,35 @@ Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise
 
 ## 📊 My Projects
 
-### 1. **[Job Portal](https://github.com/username/job-portal)**
-   - **Tech Stack**: Java, Spring Boot, MongoDB
-   - **Description**: A job portal application with RESTful APIs, CRUD operations, and secure user authentication.
+### 1. **[Task Manager](https://github.com/Swapnil-Dhamal/Task-Manager)**
+   - **Tech Stack**: Java, Spring Boot, PostgreSQL, Docker
+   - **Description**: A task management application that allows users to create, update, and delete tasks with RESTful APIs, efficient data handling using PostgreSQL, and Dockerized deployment for scalability.
 
-### 2. **[QuizApp](https://github.com/username/quizapp)**
-   - **Tech Stack**: Java, Spring Boot, React, MongoDB
-   - **Description**: A quiz application supporting dynamic quizzes on Java and Python, with features like custom question handling and scoring.
+
+### 2. **[Blogging App](https://github.com/Swapnil-Dhamal/Blogging-App)**
+   - **Tech Stack**: Java, Spring Boot, PostgreSQL
+   - **Description**: A blogging platform that allows users to create, edit, and delete blog posts, comment on posts, and engage with other users. Built with backend with Spring Boot, utilizing PostgreSQL for 
+       robust data management.
+
+### 3. **[Job Application](https://github.com/Swapnil-Dhamal/JobApp)**
+   - **Tech Stack**: Java, Spring Boot, React, HTML, CSS, PostgreSQL
+   - **Description**: A job application management system that enables users to post and search for job opportunities, manage applications, and view applicant details. Built with a responsive frontend using 
+     React, HTML, and CSS, and a secure backend using Spring Boot and PostgreSQL for efficient data storage and retrieval.
+
+
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swapnil-Dhamal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Dhamal&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-dhamal-915735291)
-[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username](https://github.com/Swapnil-Dhamal))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil-Dhamal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnildhamal58@@gmail.com)
 
 ---
