@@ -35,9 +35,10 @@ Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise
 
 ## 📊 My Projects
 
-### 1. **[Task Manager](https://github.com/Swapnil-Dhamal/Task-Manager)**
-   - **Tech Stack**: Java, Spring Boot, PostgreSQL, Docker
-   - **Description**: A task management application that allows users to create, update, and delete tasks with RESTful APIs, efficient data handling using PostgreSQL, and Dockerized deployment for scalability.
+### 1. **[CoinXpert](https://github.com/Swapnil-Dhamal/CoinXpert)**
+   - **Tech Stack**: Java, Spring Boot, PostgreSQL, Data JPA, CoinGecko API, Stripe and Razorpay payment gateways
+   - **Description**:CryptoTradeX is a user-friendly cryptocurrency trading platform designed to provide seamless, secure trading with real-time market insights and easy cryptocurrency transactions. Integrated 
+       with top exchanges and payment gateways, it allows users to buy, sell, and hold digital assets while offering robust security, real-time alerts, and an intuitive dashboard.
 
 
 ### 2. **[Blogging App](https://github.com/Swapnil-Dhamal/Blogging-App)**
