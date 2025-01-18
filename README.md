@@ -6,7 +6,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise in Java and Spring Boot, and a deep understanding of database management, frontend, and containerization.
+Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise in Java and Spring Boot, and a deep understanding of database management, frontend.
 
 ---
 
