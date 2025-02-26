@@ -59,6 +59,9 @@ Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swapnil-Dhamal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Dhamal&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Swapnil-Dhamal&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Dhamal&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Swapnil-Dhamal&theme=radical)
 
 ---
 
