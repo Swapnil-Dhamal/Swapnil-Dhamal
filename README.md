@@ -41,15 +41,15 @@ Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise
        with top exchanges and payment gateways, it allows users to buy, sell, and hold digital assets while offering robust security, real-time alerts, and an intuitive dashboard.
 
 
-### 2. **[Blogging App](https://github.com/Swapnil-Dhamal/Blogging-App)**
-   - **Tech Stack**: Java, Spring Boot, PostgreSQL
-   - **Description**: A blogging platform that allows users to create, edit, and delete blog posts, comment on posts, and engage with other users. Built with backend with Spring Boot, utilizing PostgreSQL for 
-       robust data management.
+### 2. **[Pathify](https://github.com/Swapnil-Dhamal/Classroom.io)**
 
-### 3. **[Job Application](https://github.com/Swapnil-Dhamal/JobApp)**
-   - **Tech Stack**: Java, Spring Boot, React, HTML, CSS, PostgreSQL
-   - **Description**: A job application management system that enables users to post and search for job opportunities, manage applications, and view applicant details. Built with a responsive frontend using 
-     React, HTML, and CSS, and a secure backend using Spring Boot and PostgreSQL for efficient data storage and retrieval.
+   - **Tech Stack**: React, ShadCN, Firebase, Java,Spring Boot, Gemini API
+   - **Deployment**: https://classroom-io.vercel.app
+   - **Description**: Pathify is an AI-powered learning pathway generator designed to assist students in navigating their academic and career goals. The platform enables users to input their learning objectives, upon which an intelligent agent—leveraging the Gemini API—generates personalized learning roadmaps. It features secure authentication, real-time data management via Firebase, and a modular backend built with Spring Boot. The frontend provides an intuitive and modern UI using React and ShadCN components. The project aims to enhance self-directed learning through dynamic, adaptive educational planning.
+
+### 3. **[Student Diary](https://github.com/Swapnil-Dhamal/Student-Diary)**
+   - **Tech Stack**: Java, Spring Boot, React, HTML, CSS, Tailwind, PostgreSQL
+   - **Description**: Student Diary is a full-stack application developed to manage and store student information efficiently. It facilitates CRUD operations—Create, Read, Update, Delete—on student records, including personal details, academic data, and progress notes. The backend is built using Spring Boot and PostgreSQL, ensuring secure and scalable data persistence, while the frontend is developed using React with Tailwind CSS for a responsive and user-friendly interface. JWT-based authentication and role-based access control are implemented to secure the platform, allowing only authorized users to manage data. This system is designed to support educational institutions in digitizing student records and simplifying academic administration.
 
 
 
@@ -66,7 +66,7 @@ Hello! I'm Swapnil, a passionate **Computer Engineering Student** with expertise
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-dhamal-915735291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-dhamal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil-Dhamal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnildhamal58@@gmail.com)
 
